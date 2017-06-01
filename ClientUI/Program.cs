@@ -60,14 +60,6 @@ namespace ClientUI
             assemblyScanner.ScanAppDomainAssemblies = false;
             assemblyScanner.ScanAssembliesInNestedDirectories = false;
 
-            //endpointConfiguration.ExcludeAssemblies(excludedAssemblies.ToArray());
-            //endpointConfiguration.ExcludeAssemblies(
-            //    "Microsoft.SharePoint.Client.dll",
-            //    "Microsoft.SharePoint.Client.Runtime.dll",
-            //    "PMC.LBS.SPMessages.dll",
-            //    "PMC.LBS.SPWhisperer.dll"
-            //);
-
             var endpointInstance = await Endpoint.Start(endpointConfiguration)
                 .ConfigureAwait(false);
 
