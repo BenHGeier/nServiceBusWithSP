@@ -10,7 +10,7 @@ namespace ClassLibraryThatUsesSharePoint
 
     public class Class1
     {
-        //This method has been added to 'force' VS to include the SharePoint assemblies in the output folder
+        //This method has been added to 'force' VS to include the SharePoint assemblies in the output folder - it's not actually called
         private void OpenImportXmlFile(Guid siteId, string relativeUrl, string fileUrl)
         {
             SPSecurity.RunWithElevatedPrivileges(delegate ()

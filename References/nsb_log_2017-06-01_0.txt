@@ -1,0 +1,102 @@
+﻿2017-06-01 08:46:02.441 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 08:46:29.721 INFO  NServiceBus.LicenseManager License expires on 29/6/2017 12:00:00 AM
+2017-06-01 08:54:42.255 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 08:54:45.974 INFO  NServiceBus.LicenseManager License expires on 29/6/2017 12:00:00 AM
+2017-06-01 08:54:46.087 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Minimum and Maximum connection pooling values are not configured on the provided connection string.
+2017-06-01 08:55:43.878 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 08:55:45.461 INFO  NServiceBus.LicenseManager License expires on 29/6/2017 12:00:00 AM
+2017-06-01 08:55:45.531 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Minimum and Maximum connection pooling values are not configured on the provided connection string.
+2017-06-01 08:55:45.776 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'CLOUD9\abgeier' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "CLOUD9\abgeier" /add
+2017-06-01 08:55:45.941 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 08:55:45.945 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 08:55:45.950 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 08:55:45.972 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-06-01 08:55:50.378 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-06-01 08:55:50.472 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-06-01 08:57:42.691 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 08:57:45.381 INFO  NServiceBus.LicenseManager License expires on 29/6/2017 12:00:00 AM
+2017-06-01 08:57:45.600 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Minimum and Maximum connection pooling values are not configured on the provided connection string.
+2017-06-01 08:57:49.346 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'CLOUD9\abgeier' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "CLOUD9\abgeier" /add
+2017-06-01 08:57:49.556 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 08:57:49.572 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 08:57:49.579 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 08:57:49.602 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-06-01 08:58:25.228 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 508cd943-2f25-4798-8be3-6c62e36836bd
+2017-06-01 08:58:25.627 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-06-01 08:58:35.242 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-06-01 08:58:35.287 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-06-01 09:01:17.333 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 09:06:00.568 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 09:06:01.626 INFO  NServiceBus.LicenseManager License expires on 29/6/2017 12:00:00 AM
+2017-06-01 09:06:01.708 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Minimum and Maximum connection pooling values are not configured on the provided connection string.
+2017-06-01 09:06:01.938 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'CLOUD9\abgeier' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "CLOUD9\abgeier" /add
+2017-06-01 09:06:02.033 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:06:02.035 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:06:02.037 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:06:02.053 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-06-01 09:06:13.096 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-06-01 09:06:13.128 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-06-01 09:19:11.162 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 09:28:18.781 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 09:28:20.620 INFO  NServiceBus.LicenseManager License expires on 29/6/2017 12:00:00 AM
+2017-06-01 09:28:20.698 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Minimum and Maximum connection pooling values are not configured on the provided connection string.
+2017-06-01 09:28:21.589 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'CLOUD9\abgeier' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "CLOUD9\abgeier" /add
+2017-06-01 09:28:21.761 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:28:21.792 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:28:21.792 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:28:21.808 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-06-01 09:28:31.292 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-06-01 09:28:31.323 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-06-01 09:29:10.749 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 09:29:12.724 INFO  NServiceBus.LicenseManager License expires on 29/6/2017 12:00:00 AM
+2017-06-01 09:29:12.905 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Minimum and Maximum connection pooling values are not configured on the provided connection string.
+2017-06-01 09:29:13.275 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'CLOUD9\abgeier' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "CLOUD9\abgeier" /add
+2017-06-01 09:29:13.364 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:29:13.411 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:29:13.411 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:29:13.442 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-06-01 09:29:18.999 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-06-01 09:29:19.030 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-06-01 09:30:31.037 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 09:30:32.884 INFO  NServiceBus.LicenseManager License expires on 29/6/2017 12:00:00 AM
+2017-06-01 09:30:33.022 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Minimum and Maximum connection pooling values are not configured on the provided connection string.
+2017-06-01 09:30:33.538 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'CLOUD9\abgeier' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "CLOUD9\abgeier" /add
+2017-06-01 09:30:33.850 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:30:34.022 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:30:34.022 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:30:34.069 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-06-01 09:30:57.506 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-06-01 09:30:57.538 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-06-01 09:32:50.689 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 09:33:57.011 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 09:58:51.250 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 09:58:53.773 INFO  NServiceBus.LicenseManager License expires on 29/6/2017 12:00:00 AM
+2017-06-01 09:58:53.856 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Minimum and Maximum connection pooling values are not configured on the provided connection string.
+2017-06-01 09:58:54.424 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'CLOUD9\abgeier' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "CLOUD9\abgeier" /add
+2017-06-01 09:58:54.690 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:58:54.753 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:58:54.768 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 09:58:54.924 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-06-01 09:59:07.502 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-06-01 09:59:07.518 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-06-01 09:59:57.637 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 10:01:46.920 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 10:01:48.653 INFO  NServiceBus.LicenseManager License expires on 29/6/2017 12:00:00 AM
+2017-06-01 10:01:48.719 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Minimum and Maximum connection pooling values are not configured on the provided connection string.
+2017-06-01 10:01:48.818 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'CLOUD9\abgeier' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "CLOUD9\abgeier" /add
+2017-06-01 10:01:48.917 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 10:01:48.919 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 10:01:48.921 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-06-01 10:01:48.942 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-06-01 10:01:51.886 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-06-01 10:01:51.901 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-06-01 10:03:05.552 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
+2017-06-01 10:16:13.915 INFO  DefaultFactory Logging to 'C:\Ben\RetailDemo_Downloaded\ClientUI\bin\Debug\' with level Info
